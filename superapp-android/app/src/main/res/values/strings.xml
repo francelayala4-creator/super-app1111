@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SUPERAPP</string>
+    <string name="cta_create_list">Crear lista</string>
+    <string name="cta_quote">Cotizar</string>
+    <string name="cheapest">Más barato</string>
+    <string name="nearest">Más cercano</string>
+    <string name="best_balance">Mejor balance</string>
+</resources>
