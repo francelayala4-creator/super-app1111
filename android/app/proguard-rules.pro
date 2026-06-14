@@ -1,0 +1,3 @@
+-keep class com.superapp.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
